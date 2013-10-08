@@ -1,7 +1,5 @@
-MaxCDN Media
+MaxCDN Media (Logos and Artwork)
 =====
-
-Logos and Artwork
 
 MaxCDN loves third party developers and brand advocates. We want to help make your project/site(s) awesome, and often that includes showing off NetDNA/MaxCDN/CloudCache/HDDN integration with an image. In order to keep everyone happy (and avoid involving lawyers), we've created this repository and filled it with artwork that you may use in your own applications/site(s).
 
